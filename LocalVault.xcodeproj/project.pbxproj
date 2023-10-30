@@ -17,6 +17,7 @@
 		A93545372AED7A8000B3C588 /* ItemRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93545352AED7A8000B3C588 /* ItemRowView.swift */; };
 		A93545382AED7A8000B3C588 /* EditItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93545362AED7A8000B3C588 /* EditItemView.swift */; };
 		A935453E2AEE4E7400B3C588 /* FaviconFinder in Frameworks */ = {isa = PBXBuildFile; productRef = A935453D2AEE4E7400B3C588 /* FaviconFinder */; };
+		A996950A2AEEE2D70084235D /* SecureItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99695092AEEE2D70084235D /* SecureItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		A93545332AED714A00B3C588 /* CreateItemView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateItemView.swift; sourceTree = "<group>"; };
 		A93545352AED7A8000B3C588 /* ItemRowView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ItemRowView.swift; sourceTree = "<group>"; };
 		A93545362AED7A8000B3C588 /* EditItemView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditItemView.swift; sourceTree = "<group>"; };
+		A99695092AEEE2D70084235D /* SecureItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecureItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			children = (
 				A93545302AED705100B3C588 /* SampleItems.swift */,
 				A93545212AED6DE600B3C588 /* Item.swift */,
+				A99695092AEEE2D70084235D /* SecureItem.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A93545312AED705100B3C588 /* SampleItems.swift in Sources */,
+				A996950A2AEEE2D70084235D /* SecureItem.swift in Sources */,
 				A93545202AED6DE600B3C588 /* ContentView.swift in Sources */,
 				A93545222AED6DE600B3C588 /* Item.swift in Sources */,
 				A93545342AED714A00B3C588 /* CreateItemView.swift in Sources */,
